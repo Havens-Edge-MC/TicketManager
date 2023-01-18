@@ -22,7 +22,6 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.7.20")
     implementation("org.bstats:bstats-bungeecord:3.0.0")
     implementation("org.yaml:snakeyaml:1.33")
-    mavenCentral()
 }
 
 tasks {
